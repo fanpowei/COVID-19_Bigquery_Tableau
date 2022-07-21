@@ -1,6 +1,6 @@
 # COVID-19_Bigquery_Tableau
 
-Link: https://github.com/fanpowei/COVID-19_Bigquery_Tableau
+Link: https://fanpowei.github.io/COVID-19_Bigquery_Tableau/
 
 - Introduction
 A dashboard practice using tools including BigQuery and Tableau to manipulate data and create data visualization. The last time the data was updated 4/29/2022. 
